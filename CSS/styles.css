@@ -12,7 +12,7 @@
     /*colores cuerpo*/
     --colorParrafos: rgb(10, 10, 10);
     --colorSubtitulos:rgb(236, 227, 222);
-    --colorTituloPagina:white;
+    --colorTituloPagina:gray;
     --colorSombraTituloPagina:black;
     --colorPaginaCompleta:radial-gradient(rgb(187, 135, 86),rgb(138, 96, 58));
     --colorSeccionInicio: rgb(204, 176, 147);
